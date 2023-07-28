@@ -3,6 +3,7 @@ This is a group project in which we try to re-achieve the results that are achie
 
 ## Code Filename:
 CONGAS-based currency Recognition: *First complete working code.ipynb*
+
 Coarse Classifier: *mobileNet.ipynb*
 
 ### Research Paper
