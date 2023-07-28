@@ -15,6 +15,6 @@ of Computer Vision (WACV) (pp. 481-490). IEEE.*
 Link: https://ieeexplore.ieee.org/document/8659149
 
 ## Dataset
-As the dataset was not publicly available, we created our own dataset.
+As the dataset was not publicly available, we created our own dataset. (Can be accessed using Lakehead Email address only)
 
 Link: https://drive.google.com/drive/folders/1Nts-mdcy8Zi-8xUrToA7imawvIdaJ924?usp=drive_link
